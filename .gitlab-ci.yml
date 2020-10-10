@@ -5,7 +5,7 @@ job:
     - git config user.email "yosra.jabri@gmail.com"
     - git config user.name "yosra2020"
     - git config user.password "Youchigie2020@"
-    - git remote set-url origin "https://gitlab.com/yosra2020/gitlab-integration.git" 
+    - git remote set-url origin "https://gitlab.com/yosra2020/TestProject.git" 
 
   script: 
     - git add --all
